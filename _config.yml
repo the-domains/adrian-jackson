@@ -1,0 +1,28 @@
+name: Adrian Jackson
+favicon: null
+layout_spectrum: 0.6757435081526637
+typography_spectrum: 0.5645524230785668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9264483628794551
+  lightness: 0.821237592259422
+  saturation: 0.9962049478199333
+  rhythmicContrast: 0.7220531378407031
+purpose: []
