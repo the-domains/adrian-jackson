@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adrian Jackson]]></title>
+        <description><![CDATA[Adrian Jackson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 May 2016 03:00:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Set a goal for your video]]></title>
+            <description><![CDATA[<article><h1>Set a goal for your video</h1><p>Most business owners know the value of video. There are plenty of websites out there that will tell you how video can improve customer engagement, boost traffic and ultimately drive sales. The problem most business owners have is they don’t know where to begin and when they do, they find video too expensive.</p></article>]]></description>
+            <link>undefinedset-a-goal-for-your-video/index.html</link>
+            <guid isPermaLink="false">023c422a-65fe-4e57-8fd0-10617faebf57</guid>
+            <pubDate>Fri, 13 May 2016 03:00:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
